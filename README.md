@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**Valli-12/Valli-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ganti Valli Sushmitha 👋
 
-Here are some ideas to get you started:
+### Frontend Developer | React.js | Next.js | JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate software developer with 2+ years of experience in frontend development.
+
+I enjoy building responsive, user-friendly web applications and exploring modern technologies.
+
+## 🚀 Technical Skills
+
+- **Frontend:** React.js, Next.js, JavaScript
+- **Styling:** HTML5, CSS3, Tailwind CSS
+- **Backend:** Python (backend development support), Node.js , Express.js
+- **Database:** SQL, PostgreSQL
+- **Tools:** Git, GitHub, VS Code
+
+## 💻 Featured Projects
+
+- **Mocha Vista:** Premium cafe website built with Next.js.
+
+## 📚 Currently Learning
+
+- Python Development
+- Retrieval-Augmented Generation (RAG)
+- Full Stack Development
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Valli-12
+- LinkedIn: https://www.linkedin.com/in/valli-sushmitha-ganti
