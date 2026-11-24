@@ -27,5 +27,5 @@ I enjoy building responsive, user-friendly web applications and exploring modern
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Valli-12
+- GitHub: https://github.com/Valli-Ganti
 - LinkedIn: https://www.linkedin.com/in/valli-sushmitha-ganti
